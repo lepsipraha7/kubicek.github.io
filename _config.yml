@@ -4,21 +4,3 @@ title: Archiv Lepší Praha 7 z.s.
 description: Úložiště veřejně dostupných dokumentů a jejich konverzí do lepších formátů
 
 lang: cs_CZ
-
-# Pages to include in header navigation
-nav_pages:
-  - /faktury
-  - /hobulet
-
-# Pages to include in footer navigation
-footer_page:
-  - /usneseni
-
-# Links to include on the contact page
-contact_links:
-  - name: Github
-    url: https://github.com/lepsipraha7
-    icon: github
-  - name: Facebook
-    url: https://facebook.com/LepsiPraha7
-    icon: facebook
